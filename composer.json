@@ -1,7 +1,7 @@
 {
     "name": "swoft-rewrite/swoft-config",
-    "description": "",
-    "keywords": ["",""],
+    "description": "分布式开发，重写swoft框架之 -- Config 模块",
+    "keywords": ["swoft","config"],
     "license": "MIT",
     "minimum-stability":"dev",
     "authors": [
